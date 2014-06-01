@@ -2,7 +2,7 @@
 // @name           Blackumi
 // @description    bangumi用户屏蔽
 // @author         niR
-// @version        4.5.31.22
+// @version        4.6.1.5
 // @license        MIT License
 // @encoding       utf-8
 // @include        http://bangumi.tv/*
