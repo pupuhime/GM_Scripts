@@ -1,5 +1,6 @@
 ﻿// ==UserScript==
 // @name           Hide Ratings @Douban
+// @namespace      https://github.com/hentaiPanda
 // @namespace      再也不想被豆瓣文青欺骗了
 // @description    Hide ratings
 // @version        0.3.2

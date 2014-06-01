@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Hide Tsukkomi @Bangumi
+// @namespace      https://github.com/hentaiPanda
 // @description    爆乳教师再也不用担心我被Bangumi吐槽箱的义妹给拐走了
 // @version        0.1
 // @include        http://bangumi.tv/subject/*

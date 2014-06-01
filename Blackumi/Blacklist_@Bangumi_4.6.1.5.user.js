@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Blackumi
+// @namespace      https://github.com/hentaiPanda
 // @description    bangumi用户屏蔽
 // @author         niR
 // @version        4.6.1.5

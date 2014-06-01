@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           ReTsu
+// @namespace      https://github.com/hentaiPanda
 // @description    回复吐槽箱
 // @version        4.6.1.11
 // @include        http://bangumi.tv/subject/*

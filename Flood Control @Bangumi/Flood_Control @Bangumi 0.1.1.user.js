@@ -1,5 +1,6 @@
 ﻿// ==UserScript==
 // @name           Flood Control @Bangumi
+// @namespace      https://github.com/hentaiPanda
 // @description    默认头像帖太多时全部隐藏
 // @version        0.1.1
 // @include        http://bgm.tv/rakuen*

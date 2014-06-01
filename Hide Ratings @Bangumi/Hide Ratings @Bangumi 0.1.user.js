@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name           Hide Ratings @Bangumi
-// @description    Hide ratings
+// @namespace      https://github.com/hentaiPanda
+// @description    隐藏评分、排名信息
 // @version        0.1
 // @include        http://bangumi.tv/*
 // @include        http://bgm.tv/*

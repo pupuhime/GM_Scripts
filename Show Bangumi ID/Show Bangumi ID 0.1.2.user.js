@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Show Bangumi ID
+// @namespace      https://github.com/hentaiPanda
 // @description    在昵称旁显示用户名
 // @version        0.1.2
 // @include        http://bangumi.tv/*

@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Read Books @Bangumi
+// @namespace      https://github.com/hentaiPanda
 // @description    人人都有一颗成为文学少女的心
 // @version        0.1.1
 // @include        http://bangumi.tv/subject/*
