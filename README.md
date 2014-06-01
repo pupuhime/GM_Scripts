@@ -48,11 +48,13 @@ bangumi.tv 的用户屏蔽脚本
     http://bangumi.tv/timeline    
     http://bangumi.tv/dollars    
 
+
 用户界面（不是你自己的）会多一个按钮
 ![演示](http://i.imgur.com/NAxLFZc.png)    
 
 设置里会多两个选项，如下 
 ![演示](http://i.imgur.com/jBBdYxJ.png)    
+
 
 ***********************************************************
 
