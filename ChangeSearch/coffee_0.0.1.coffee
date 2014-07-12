@@ -38,7 +38,7 @@ injectStyle = (engine) ->
     h3 a:visited, h3 a:active {
       color: #0187C5;
     }
-    div.f.kv {
+    div.f.kv._Kz {
       padding: 10px 0px 2px;
       font-size: 10px;
       color: #999;
@@ -325,7 +325,7 @@ googleSearch = (response) ->
   nav = '<div id="divnav">' + nav + '</div>'
   $("#columnSearchB").html(responseHTML + nav)
   $(".f.slp").remove()
-  $("div.f.kv cite").each ->
+  $("div.f.kv._Kz cite._be").each ->
     this.parentNode.innerHTML = this.innerHTML
   # $("#columnSearchB").css("display", "block")
   $("#divnav").contents().each ->
