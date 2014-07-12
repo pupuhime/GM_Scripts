@@ -7,8 +7,6 @@
 // @license        MIT License
 // @encoding       utf-8
 // @require        http://code.jquery.com/jquery-2.1.1.min.js
-// @require        coffee-script.js
-// @resource       coffee  coffee.coffee
 // @include        http://bangumi.tv/group/topic/*
 // @include        http://bgm.tv/group/topic/*
 // @include        http://chii.in/group/topic/*
