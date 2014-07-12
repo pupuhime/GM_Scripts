@@ -78,9 +78,4 @@ findFEN = (interval) ->
 # console.log(Date.parse(b) - Date.parse(a) > 0)
 
 # interval = 15897600000
-
-if $("#pageHeader a:first-child").attr("href").indexOf("/group/") is 0
-  console.log("group topic")
-  findFEN(15897600000)
-
-# findFEN(15897600000)
+findFEN(15897600000)

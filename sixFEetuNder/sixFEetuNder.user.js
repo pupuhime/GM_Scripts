@@ -3,7 +3,7 @@
 // @namespace      https://github.com/hentaiPanda
 // @description    挖坟丧心病狂
 // @author         niR
-// @version        0.0.2
+// @version        0.0.3
 // @license        MIT License
 // @encoding       utf-8
 // @require        http://code.jquery.com/jquery-2.1.1.min.js
