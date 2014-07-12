@@ -70,7 +70,7 @@ findFEN = (interval) ->
       >这可能是一篇被挖坟的帖子</div>')
   for i in fener
     getFirstChild( getFirstChild( posts[i] ) ).style = "color:black"
-    posts[i].style = "background:#F09199;color:black;opacity:0.8;border-radius:5px;"
+    posts[i].style = "background:#F09199;color:black;border-radius:5px;"
 
 # interval = 15897600000
 # a = "2013 7 1"
@@ -79,3 +79,4 @@ findFEN = (interval) ->
 
 # interval = 15897600000
 findFEN(15897600000)
+
