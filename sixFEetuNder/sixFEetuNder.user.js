@@ -3,12 +3,13 @@
 // @namespace      https://github.com/hentaiPanda
 // @description    挖坟丧心病狂
 // @author         niR
-// @version        0.0.3
+// @version        0.0.5
 // @license        MIT License
 // @encoding       utf-8
 // @require        http://code.jquery.com/jquery-2.1.1.min.js
 // @require        coffee-script.js
 // @resource       coffee  coffee.coffee
+// @grant          unsafeWindow
 // @include        http://bangumi.tv/group/topic/*
 // @include        http://bgm.tv/group/topic/*
 // @include        http://chii.in/group/topic/*

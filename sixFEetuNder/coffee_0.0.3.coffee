@@ -72,15 +72,15 @@ findFEN = (interval) ->
     getFirstChild( getFirstChild( posts[i] ) ).style = "color:black"
     posts[i].style = "background:#F09199;color:black;opacity:0.8;border-radius:5px;"
 
+# interval = 15897600000
+# a = "2013 7 1"
+# b = "2014 1 3"
+# console.log(Date.parse(b) - Date.parse(a) > 0)
 
 # interval = 15897600000
-main = ->
-  try
-    if $("#pageHeader a:first-child").attr("href").indexOf("/group/") is 0
-      console.log("group topic")
-      findFEN(15897600000)
-  catch
-    console.log "rakuen tpclist"
-    return 0
 
-main()
+if $("#pageHeader a:first-child").attr("href").indexOf("/group/") is 0
+  console.log("group topic")
+  findFEN(15897600000)
+
+# findFEN(15897600000)
