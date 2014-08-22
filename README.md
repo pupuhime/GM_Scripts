@@ -1,14 +1,27 @@
-GM_Scripts
-==========
+##GM_Scripts##
 
 Greasemonkey脚本存放  
 
-20140711 updated readme.md
+1. Blackumi bangumi用户屏蔽
+2. ChangeSearch bangumi内嵌入式使用站外搜索引擎
+3. DelTml bangumi批量删除时间胶囊的记录
+4. Flood Control @Bangumi bangumi上在超展开屏蔽默认头像用户（默认超过12个屏蔽）
+5. Hide Ratings @Bangumi bangumi隐藏评分信息
+6. Hide Ratings @Douban douban隐藏评分信息
+7. Hide Tsukkomi @bangumi bangumi隐藏吐槽箱
+8. ReTsu bangumi快速回复吐槽箱
+9. Read Books @Bangumi bangumi增加在线观看书籍的外链
+10. Show Bangumi ID bangumi显示ID
+11. bgmnote bangumi给用户加简易备注
+12. cloneindex bangumi克隆目录
+13. hideHaruna bangumi隐藏春菜
+14. sixFEetuNder 简称FEN，bangumi上显示贴子是否是挖坟贴以及挖坟人是谁
+
 
 ***********************************************************
 
-说明：
------------------------------------------------------------
+###说明###
+
 1) Blackumi    
 https://greasyfork.org/scripts/1928-blackumi    
 bangumi.tv 的用户屏蔽脚本（黑名单功能） 
