@@ -16,6 +16,7 @@ Greasemonkey脚本存放
 12. cloneindex bangumi克隆目录
 13. hideHaruna bangumi隐藏春菜
 14. sixFEetuNder 简称FEN，bangumi上显示贴子是否是挖坟贴以及挖坟人是谁
+15. Yet Another Bangumi Mute bangumi内把超展开列表里不想看的帖子隐藏掉，比Bangumi Mute显示结果稍微好看点，后者li没有移除，强迫症不能忍
 
 
 ***********************************************************
